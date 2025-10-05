@@ -65,7 +65,7 @@ header {
 }
 
 .About-tutor {
-  background-image: url(/images/Vectors.svg);
+  background-image: url(../images/Vectors.svg);
   background-size: 100%; 
 
 }
@@ -168,7 +168,7 @@ header {
 }
 
 .map {
-  background-image: url(/images/High-Resolution-World-Map.jpg), url(images/High-Resolution-World-Map.jpg);
+  background-image: url(../images/High-Resolution-World-Map.jpg), url(images/High-Resolution-World-Map.jpg);
   background-attachment: fixed;
   background-size: cover; 
   height: 100dvh;
@@ -178,7 +178,7 @@ header {
 }
 
 .our-values {
-  background-image: url(/images/back-our-values.svg);
+  background-image: url(../images/back-our-values.svg);
   background-size: 100%;
   height: 46.6dvw;
   overflow: hidden;
@@ -235,7 +235,7 @@ header {
 }
 
 .Expectation {
-  background-image: url(/images/back\ for\ expect.svg);
+  background-image: url(../images/back\ for\ expect.svg);
   background-size: 100%;
   height: 69.067dvw;
   overflow: hidden;
@@ -436,7 +436,7 @@ header {
 
 
 .Mascot-block {
-  background-image: url(/images/maskot-lay.svg);
+  background-image: url(../images/maskot-lay.svg);
   background-size: 100%;
   height: 74.133dvw;
   overflow: hidden;
